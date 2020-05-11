@@ -1,3 +1,6 @@
+Code companion for blog post on https://randyperez.tech/blog/react-navigation which creates an accessible navigation menu.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
